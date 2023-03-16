@@ -30,7 +30,7 @@ pip3 install --upgrade pip
 django-admin startproject drf .
 
 # start an app using django-admin
-django-admin startapp rest_api
+python3 startapp rest_api
 
 # run the server
 python3 manage.py runserver 8000
